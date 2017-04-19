@@ -8,7 +8,7 @@ Matias Bargas
 
 [twitter.com/matiasbargas](http://www.twitter.com/matiasbargas)
 
-I’m a natural team player with wide experience in a variety of technologies and business applications. Proven experience in all phases of the  software development lifecycle, applications consulting and technology training's. My specialties includes negotiation and effective communication, taking control of non easy situations, design mindset, empowerment with a strong technology backend.
+I’m a natural team player with wide experience in a large variety of technologies and business applications. Proven experience in all phases of the  software development lifecycle, applications consulting and technology trainings. My specialties includes negotiation and effective communication, taking control of non easy situations, design mindset, empowerment with a strong technology backend.
 
 Work experience
 -------
@@ -29,13 +29,14 @@ Provided a full introduction of the history of engineering within MuleSoft and o
 I managed to design and develop experiences for latest top company features (DataWeave, DataSense, Http Connector, error handling and analytics reports, Web Service Consumer, DataMapper) which improved significantly the velocity for desing a Mule app. Working close with UX team, we lead user validations.
 
 ### Project Developer at Ekuar. Jan 2011 – Oct 2012 ### 
-I performed, coordinated and developed BPM projects, worked as a consultant for Oracle and Polymita technologies, and provided development outsourcing for business projects. Also, I delivered technology trainings and performed situation assessments. I delivered 10+ succesful projects working in companies all over the world.
+I performed, coordinated and developed BPM projects, worked as a consultant for Oracle and Polymita technologies, and provided development outsourcing for business projects. Also, I delivered technology trainings and performed situation assessments. 
+I delivered 10+ succesful projects working in companies all over the world meeting all deadlines with outstanding feedback of all the clients I was engaged with.
 
 ### Software Developer at Ekuar. Nov 2009 - Jan 2011 ### 
-In charge of developing a new BPM modeler and it integration With Polymita Tech.
+In charge of developing a new BPM designer and it integration with Polymita Tech.
 
 ### Design Leader and Tech Consultant at Foto Trio. Jan 2006 – Nov 2009 ### 
-Team leader for events, design & studio team's in 100+ campaigns and 500+ events.
+Team leader for events, design and studio team's in 100+ campaigns and 500+ events.
 
 Courses
 -------
